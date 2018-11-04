@@ -1,13 +1,3 @@
-
-##Consumer Key (API Key)	xDl9q32JAlweCiptXYcbAJiin
-##Consumer Secret (API Secret)	UxZjQF7KRLODOtX59QMfXYwFbhBIYzY0aXZt9hWjMaJ05O0yRT
-##Access Level	Read and write (modify app permissions)
-##Owner	vdj_cliffo
-##Owner ID	4032831017
-##Access Token	4032831017-AKJPIatZxvNb4Krhlj4DmcfXGmaNDNqGss6vsyB
-##Access Token Secret	iykrK09v7kIy7gmdRe4J2xO7PNUGLM5EENS1s5nmNhCWi
-
-
 import tweepy
 from textblob import TextBlob
 
